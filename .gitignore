@@ -6,3 +6,7 @@
 .env.test.local
 .env.production.local
 
+#virtual environment
+venv
+.venv
+
